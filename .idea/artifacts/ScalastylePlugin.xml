@@ -5,7 +5,6 @@
       <element id="archive" name="scalastyle-plugin.zip">
         <element id="directory" name="Scalastyle">
           <element id="directory" name="lib">
-            <element id="library" level="project" name="compiler" />
             <element id="library" level="project" name="scalastyle_2.9.1-0.1.0" />
             <element id="archive" name="scalastyle-plugin.jar">
               <element id="module-output" name="intellij-scalastyle" />
@@ -13,6 +12,7 @@
                 <element id="file-copy" path="$PROJECT_DIR$/META-INF/plugin.xml" />
               </element>
             </element>
+            <element id="file-copy" path="$PROJECT_DIR$/libs/compiler/scala-library-2.9.1.jar" />
           </element>
         </element>
       </element>
