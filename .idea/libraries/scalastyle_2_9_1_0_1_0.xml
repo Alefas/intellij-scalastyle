@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="scalastyle_2.9.1-0.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/scalariform_2.9.1-0.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/scalastyle_2.9.1-0.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/scopt_2.9.1-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/sources/scalastyle_2.9.1-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
